@@ -10,3 +10,6 @@ This project is heavily based on John Smilga's Navbar project on his HTML/CSS/JS
 
 -   Navbar toggle functionality works using height to prevent transition animations inconsistence;
 -   If the navbar is toggled, when the screen resizes to 800px or above, the navbar will be hidden when resizing back to bellow 800px;
+
+# Project demo
+[Click here](https://its0v3r-js-project-navbar.netlify.app/html/) to check a demo of this project!
